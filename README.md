@@ -2,6 +2,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:003010,100:0d1117&height=220&section=header&text=MR.BORA&fontSize=90&fontColor=00ff41&animation=fadeIn&fontAlignY=55&desc=◈%20CYBER%20DEFENSE%20ARCHITECT%20%20·%20%20AI%20SECURITY%20ENGINEER%20◈&descAlignY=76&descSize=13&descColor=00cc33" />
 
+## 🌐 [➜ İnteraktif Profilimi Gör](https://bor-code.github.io/Bor-Code/)
+
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&multiline=false&width=750&lines=%5BSYS%5D+Initializing+security+protocols...;%5BORG%5D+Deploying+AI+anomaly+detection+engines...;%5BNET%5D+Blue+Team+defense+matrix%3A+ONLINE;%5BSIEM%5D+2%2C847+correlation+rules+loaded...;%5BAI%5D++LSTM+anomaly+model%3A+98.2%25+accuracy;%5BOPS%5D+Bridging+AI+%E2%86%94+Cyber+Defense...;%5BSTS%5D+All+systems+nominal.+Welcome%2C+Operative.)](https://git.io/typing-svg)
