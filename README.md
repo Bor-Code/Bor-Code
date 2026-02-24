@@ -50,8 +50,6 @@
 </div>
 
 ```yaml
-# /etc/operative_status.conf — v2.4.1
-
 identity:
   codename:    "MR.BORAN"
   handle:      "Bor-Code"
@@ -230,15 +228,8 @@ LEGEND:  ✅ DEPLOYED   🔄 PROCESSING   ⏳ QUEUED
 </div>
 
 ```python
-# threat_intel_engine.py — AI-POWERED DETECTION CORE
-# MR.BORAN's active project stack
-
 class ThreatIntelEngine:
-    """
-    Bridging Blue Team Operations with Artificial Intelligence.
-    Every log is a story. AI reads them faster than any human can.
-    """
-    
+
     performance_metrics = {
         "model_accuracy":      "98.2%   — LSTM anomaly detection",
         "alerts_processed":    "12,847  — last 30 days",
@@ -247,7 +238,7 @@ class ThreatIntelEngine:
         "sigma_rules_active":  "2,847   — continuously updated",
         "uptime_sla":          "99.97%  — maintained",
     }
-    
+
     active_projects = [
         "🔴 [HIGH]   AI-SIEM Bridge       → LangChain + Elastic SIEM integration",
         "🟡 [MED]    Anomaly Detector     → LSTM model for auth log analysis",
@@ -255,9 +246,9 @@ class ThreatIntelEngine:
         "🟢 [LOW]    Threat Hunt Kit      → MITRE ATT&CK mapped Sigma queries",
         "🔵 [RES]    LLM-SOC Assistant    → GPT-powered alert triage agent",
     ]
-    
+
     philosophy = "Assume breach. Automate response. Hunt proactively."
-    
+
     def status(self):
         return "🟢 OPERATIONAL — All detection pipelines nominal"
 ```
@@ -266,47 +257,7 @@ class ThreatIntelEngine:
 
 <div align="center">
 
-## `[ 0x07 : CONTRIBUTION_MATRIX ]`
-
-> ⚙️ **Snake animasyonu için:** Aşağıdaki GitHub Action'ı reponuza ekleyin, sonra otomatik oluşacak.
-
-```yaml
-# .github/workflows/snake.yml — reponuza ekleyin
-name: Generate Snake
-on:
-  schedule: [{ cron: "0 0 * * *" }]
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bor-Code/Bor-Code/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bor-Code/Bor-Code/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bor-Code/Bor-Code/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-## `[ 0x08 : TROPHIES ]`
+## `[ 0x07 : TROPHIES ]`
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Bor-Code&theme=matrix&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -316,7 +267,7 @@ jobs:
 
 <div align="center">
 
-## `[ 0x09 : SIGNAL_CHANNELS ]`
+## `[ 0x08 : SIGNAL_CHANNELS ]`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00bfff&labelColor=0d1117)](https://www.linkedin.com/in/bora-k%C4%B1z%C4%B1lkaya-9324b5284)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=ff4444&labelColor=0d1117)](https://tryhackme.com/p/BorCode)
