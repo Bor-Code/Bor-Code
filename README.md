@@ -40,15 +40,6 @@
 
 ---
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bor-Code&show_icons=true&theme=github_dark&bg_color=0a0a0f&border_color=00d4ff&title_color=00d4ff&icon_color=7eb8f7&text_color=c9d1d9&hide_border=false&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bor-Code&layout=compact&theme=github_dark&bg_color=0a0a0f&border_color=00d4ff&title_color=00d4ff&text_color=c9d1d9" height="165"/>
-</p>
-
----
-
 ## ⚙️ Tech Arsenal
 
 <table>
@@ -91,14 +82,6 @@
 
 ---
 
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bor-Code&theme=darkhub&no-frame=false&row=1&column=6&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
-</p>
-
----
-
 ## 📊 GitHub Pulse
 
 <table>
@@ -114,8 +97,22 @@
 </tr>
 </table>
 
+---
+
 <div align="center">
   <img width="760" src="https://streak-stats.demolab.com/?user=Bor-Code&background=0a0a0f&border=00d4ff&stroke=00d4ff&ring=7eb8f7&fire=00d4ff&currStreakNum=00d4ff&sideNums=00d4ff&currStreakLabel=7eb8f7&sideLabels=c9d1d9&dates=666&border_radius=10" />
+</div>
+
+---
+
+## 🎯 Skill Levels
+
+<div align="center">
+
+[![Blue Team](https://img.shields.io/badge/Blue%20Team-████████░░%2080%25-00d4ff?style=flat-square&labelColor=0d1b2a)]()
+[![SIEM](https://img.shields.io/badge/SIEM-███████░░░%2070%25-00d4ff?style=flat-square&labelColor=0d1b2a)]()
+[![Python](https://img.shields.io/badge/Python-████████░░%2085%25-00d4ff?style=flat-square&labelColor=0d1b2a)]()
+
 </div>
 
 ---
@@ -131,14 +128,6 @@
 </picture>
 
 </div>
-
----
-
----
-
-[![Blue Team](https://img.shields.io/badge/Blue%20Team-████████░░%2080%25-00d4ff?style=flat-square&labelColor=0d1b2a)]()
-[![SIEM](https://img.shields.io/badge/SIEM-███████░░░%2070%25-00d4ff?style=flat-square&labelColor=0d1b2a)]()
-[![Python](https://img.shields.io/badge/Python-████████░░%2085%25-00d4ff?style=flat-square&labelColor=0d1b2a)]()
 
 ---
 
@@ -162,12 +151,11 @@
 <td width="58%" valign="middle">
 
 <a href="https://www.securitycraft.space/"><img src="https://img.shields.io/badge/SecurityCraft.space-0d1b2a?style=for-the-badge&logo=firefoxbrowser&logoColor=00d4ff" /></a>
-<a href="https://www.linkedin.com/in/bora-k%C4%B1z%C4%B1lkaya-9324b5284"><img src="https://img.shields.io/badge/LinkedIn-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="https://www.linkedin.com/in/boran-k%C4%B1z%C4%B1lkaya-9324b5284"><img src="https://img.shields.io/badge/LinkedIn-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
 <a href="https://tryhackme.com/p/BorCode"><img src="https://img.shields.io/badge/TryHackMe-0d1b2a?style=for-the-badge&logo=tryhackme&logoColor=00d4ff" /></a>
 <a href="https://app.hackthebox.com/users/3137221"><img src="https://img.shields.io/badge/HackTheBox-0d1b2a?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" /></a>
 <a href="https://github.com/Bor-Code"><img src="https://img.shields.io/badge/GitHub-0d1b2a?style=for-the-badge&logo=github&logoColor=c9d1d9" /></a>
 <a href="mailto:non.mrbora@gmail.com"><img src="https://img.shields.io/badge/Email-0d1b2a?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-<a href="https://bor-code.github.io/Bor-Code/"><img src="https://img.shields.io/badge/Portfolio-0d1b2a?style=for-the-badge&logo=vercel&logoColor=00d4ff" /></a>
 
 <br/><br/>
 
@@ -183,5 +171,5 @@
 <br/>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0a0a0f,40:0d1b2a,100:0a0a0f&text=Boran%20Kızılkaya&fontSize=18&fontColor=00d4ff&animation=twinkling&fontAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0a0a0f,40:0d1b2a,100:0a0a0f&text=Stay%20Defensive&fontSize=18&fontColor=00d4ff&animation=twinkling&fontAlignY=65" />
 </div>
