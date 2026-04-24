@@ -94,7 +94,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bor-Code&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Bor-Code&theme=darkhub&no-frame=false&row=1&column=6&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
 </p>
 
 ---
@@ -113,14 +113,6 @@
 </td>
 </tr>
 </table>
-
----
-
-[![Blue Team](https://img.shields.io/badge/Blue%20Team-████████░░%2080%25-00d4ff?style=flat-square&labelColor=0d1b2a)]()
-[![SIEM](https://img.shields.io/badge/SIEM-███████░░░%2070%25-00d4ff?style=flat-square&labelColor=0d1b2a)]()
-[![Python](https://img.shields.io/badge/Python-████████░░%2085%25-00d4ff?style=flat-square&labelColor=0d1b2a)]()
-
----
 
 <div align="center">
   <img width="760" src="https://streak-stats.demolab.com/?user=Bor-Code&background=0a0a0f&border=00d4ff&stroke=00d4ff&ring=7eb8f7&fire=00d4ff&currStreakNum=00d4ff&sideNums=00d4ff&currStreakLabel=7eb8f7&sideLabels=c9d1d9&dates=666&border_radius=10" />
@@ -191,5 +183,5 @@
 <br/>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0a0a0f,40:0d1b2a,100:0a0a0f&text=Stay%20Defensive&fontSize=18&fontColor=00d4ff&animation=twinkling&fontAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0a0a0f,40:0d1b2a,100:0a0a0f&text=Boran%20Kızılkaya&fontSize=18&fontColor=00d4ff&animation=twinkling&fontAlignY=65" />
 </div>
