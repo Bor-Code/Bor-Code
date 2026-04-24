@@ -6,8 +6,11 @@
 
 ![Mode](https://img.shields.io/badge/BLUE%20TEAM-Active-00d4ff?style=for-the-badge&labelColor=0d1b2a)
 ![Location](https://img.shields.io/badge/Turkey-Konya-7eb8f7?style=for-the-badge&labelColor=0d1b2a)
-![Website](https://img.shields.io/badge/Website-securitycraft.space-7eb8f7?style=for-the-badge&labelColor=0d1b2a)
 ![Profile Views](https://komarev.com/ghpvc/?username=Bor-Code&style=for-the-badge&color=00d4ff&label=Views)
+
+<br/>
+
+[![SecurityCraft](https://img.shields.io/badge/🌐%20securitycraft.space-Visit%20My%20Website-00d4ff?style=for-the-badge&labelColor=0d1b2a&logo=firefoxbrowser&logoColor=00d4ff)](https://www.securitycraft.space/)
 
 </div>
 
@@ -171,5 +174,5 @@
 <br/>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0a0a0f,40:0d1b2a,100:0a0a0f&text=Stay%20Defensive&fontSize=18&fontColor=00d4ff&animation=twinkling&fontAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0:0a0a0f,40:0d1b2a,100:0a0a0f&text=Stay%20Defensive.%20Stay%20Sharp.%20Stay%20Ahead.&fontSize=26&fontColor=00d4ff&animation=twinkling&fontAlignY=45&desc=Every%20log%20tells%20a%20story.%20Every%20alert%20is%20a%20chance%20to%20defend.%20Keep%20building.&descSize=13&descColor=7eb8f7&descAlignY=68" />
 </div>
