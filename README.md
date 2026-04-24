@@ -40,6 +40,15 @@
 
 ---
 
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bor-Code&show_icons=true&theme=github_dark&bg_color=0a0a0f&border_color=00d4ff&title_color=00d4ff&icon_color=7eb8f7&text_color=c9d1d9&hide_border=false&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bor-Code&layout=compact&theme=github_dark&bg_color=0a0a0f&border_color=00d4ff&title_color=00d4ff&text_color=c9d1d9" height="165"/>
+</p>
+
+---
+
 ## ⚙️ Tech Arsenal
 
 <table>
@@ -82,6 +91,14 @@
 
 ---
 
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bor-Code&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15"/>
+</p>
+
+---
+
 ## 📊 GitHub Pulse
 
 <table>
@@ -96,6 +113,14 @@
 </td>
 </tr>
 </table>
+
+---
+
+[![Blue Team](https://img.shields.io/badge/Blue%20Team-████████░░%2080%25-00d4ff?style=flat-square&labelColor=0d1b2a)]()
+[![SIEM](https://img.shields.io/badge/SIEM-███████░░░%2070%25-00d4ff?style=flat-square&labelColor=0d1b2a)]()
+[![Python](https://img.shields.io/badge/Python-████████░░%2085%25-00d4ff?style=flat-square&labelColor=0d1b2a)]()
+
+---
 
 <div align="center">
   <img width="760" src="https://streak-stats.demolab.com/?user=Bor-Code&background=0a0a0f&border=00d4ff&stroke=00d4ff&ring=7eb8f7&fire=00d4ff&currStreakNum=00d4ff&sideNums=00d4ff&currStreakLabel=7eb8f7&sideLabels=c9d1d9&dates=666&border_radius=10" />
@@ -114,6 +139,14 @@
 </picture>
 
 </div>
+
+---
+
+---
+
+[![Blue Team](https://img.shields.io/badge/Blue%20Team-████████░░%2080%25-00d4ff?style=flat-square&labelColor=0d1b2a)]()
+[![SIEM](https://img.shields.io/badge/SIEM-███████░░░%2070%25-00d4ff?style=flat-square&labelColor=0d1b2a)]()
+[![Python](https://img.shields.io/badge/Python-████████░░%2085%25-00d4ff?style=flat-square&labelColor=0d1b2a)]()
 
 ---
 
