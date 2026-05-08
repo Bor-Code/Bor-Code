@@ -87,25 +87,12 @@
 
 ## 📊 GitHub Pulse
 
-<table>
-<tr>
-<td width="40%" align="center">
+<h2 align="center">📊 GitHub Pulse</h2>
 
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100%" />
-
-</td>
-
-<td width="60%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Bor-Code&show_icons=true&theme=github_dark&hide_border=false&cache_seconds=1800" width="100%" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bor-Code&layout=compact&theme=github_dark&hide_border=false&cache_seconds=1800" width="100%" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bor-Code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bor-Code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" height="165"/>
+</p>
 
 ## 🎯 Skill Levels
 
