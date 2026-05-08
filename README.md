@@ -89,28 +89,23 @@
 
 <table>
 <tr>
-<td width="40%" align="center" valign="middle">
+<td width="40%" align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100%" />
+
 </td>
-<td width="60%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bor-Code&show_icons=true&include_all_commits=true&bg_color=0a0a0f&border_color=00d4ff&title_color=00d4ff&icon_color=7eb8f7&text_color=c9d1d9&ring_color=00d4ff&border_radius=10" width="100%" />
+<td width="60%" align="center">
 
-<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Bor-Code&show_icons=true&theme=github_dark&hide_border=false&cache_seconds=1800" width="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bor-Code&layout=compact&langs_count=8&bg_color=0a0a0f&border_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&border_radius=10" width="100%" />
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bor-Code&layout=compact&theme=github_dark&hide_border=false&cache_seconds=1800" width="100%" />
 
 </td>
 </tr>
 </table>
-
----
-
-<div align="center">
-<img width="100%" src="https://streak-stats.demolab.com/?user=Bor-Code&background=0a0a0f&border=00d4ff&stroke=00d4ff&ring=7eb8f7&fire=00d4ff&currStreakNum=00d4ff&sideNums=00d4ff&currStreakLabel=7eb8f7&sideLabels=c9d1d9&dates=666&border_radius=10" />
-</div>
-
----
 
 ## 🎯 Skill Levels
 
