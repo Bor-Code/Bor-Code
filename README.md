@@ -20,17 +20,17 @@
 
 <table>
 <tr>
-<td width="42%" align="center" valign="middle">
-  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="320" alt="Who Am I gif" />
+<td width="40%" align="center" valign="middle">
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="100%" />
 </td>
-<td width="58%" valign="middle">
+<td width="60%" valign="middle">
 
-- 🔵 Blue Team operations
-- 🧠 SIEM engineering and log analysis
-- 🪟 Windows hardening and detection logic
-- 🤖 LLM-assisted security automation
-- ☁️ Cloud-native security and Kubernetes curiosity
-- 🎯 AI anomaly detection and practical defense workflows
+- 🔵 Blue Team operations  
+- 🧠 SIEM engineering and log analysis  
+- 🪟 Windows hardening and detection logic  
+- 🤖 LLM-assisted security automation  
+- ☁️ Cloud-native security and Kubernetes curiosity  
+- 🎯 AI anomaly detection and practical defense workflows  
 
 ### Focus Areas
 
@@ -47,7 +47,7 @@
 
 <table>
 <tr>
-<td width="58%" valign="middle">
+<td width="60%" valign="middle">
 
 ### Languages & Scripting
 ![Python](https://img.shields.io/badge/Python-0d1b2a?style=for-the-badge&logo=python&logoColor=FFD43B)
@@ -77,8 +77,8 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1b2a?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 
 </td>
-<td width="42%" align="center" valign="middle">
-  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="320" alt="Tech arsenal gif" />
+<td width="40%" align="center" valign="middle">
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="100%" />
 </td>
 </tr>
 </table>
@@ -89,13 +89,17 @@
 
 <table>
 <tr>
-<td width="42%" align="center" valign="middle">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="320" alt="Stats gif" />
+<td width="40%" align="center" valign="middle">
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100%" />
 </td>
-<td width="58%" align="center" valign="middle">
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=Bor-Code&show_icons=true&include_all_commits=true&bg_color=0a0a0f&border_color=00d4ff&title_color=00d4ff&icon_color=7eb8f7&text_color=c9d1d9&ring_color=00d4ff&border_radius=10" />
-  <br/><br/>
-  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bor-Code&layout=compact&langs_count=8&bg_color=0a0a0f&border_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&border_radius=10" />
+<td width="60%" align="center" valign="middle">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Bor-Code&show_icons=true&include_all_commits=true&bg_color=0a0a0f&border_color=00d4ff&title_color=00d4ff&icon_color=7eb8f7&text_color=c9d1d9&ring_color=00d4ff&border_radius=10" width="100%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bor-Code&layout=compact&langs_count=8&bg_color=0a0a0f&border_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&border_radius=10" width="100%" />
+
 </td>
 </tr>
 </table>
@@ -103,7 +107,7 @@
 ---
 
 <div align="center">
-  <img width="760" src="https://streak-stats.demolab.com/?user=Bor-Code&background=0a0a0f&border=00d4ff&stroke=00d4ff&ring=7eb8f7&fire=00d4ff&currStreakNum=00d4ff&sideNums=00d4ff&currStreakLabel=7eb8f7&sideLabels=c9d1d9&dates=666&border_radius=10" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=Bor-Code&background=0a0a0f&border=00d4ff&stroke=00d4ff&ring=7eb8f7&fire=00d4ff&currStreakNum=00d4ff&sideNums=00d4ff&currStreakLabel=7eb8f7&sideLabels=c9d1d9&dates=666&border_radius=10" />
 </div>
 
 ---
@@ -125,9 +129,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bor-Code/Bor-Code/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bor-Code/Bor-Code/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Bor-Code/Bor-Code/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bor-Code/Bor-Code/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bor-Code/Bor-Code/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Bor-Code/Bor-Code/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -137,12 +141,18 @@
 ## 📈 Activity & Summary
 
 <div align="center">
-  <img width="850" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bor-Code&theme=github_dark" />
-  <br/><br/>
-  <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bor-Code&theme=github_dark" />
-  <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bor-Code&theme=github_dark" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bor-Code&bg_color=0a0a0f&color=00d4ff&line=7eb8f7&point=00d4ff&area=true&area_color=00d4ff15&hide_border=false&border_color=00d4ff&title_color=00d4ff&custom_title=Contribution+Activity+Graph" />
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bor-Code&theme=github_dark" />
+
+<br/><br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bor-Code&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bor-Code&theme=github_dark" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bor-Code&bg_color=0a0a0f&color=00d4ff&line=7eb8f7&point=00d4ff&area=true&area_color=00d4ff15&hide_border=false&border_color=00d4ff&title_color=00d4ff&custom_title=Contribution+Activity+Graph" />
+
 </div>
 
 ---
@@ -151,7 +161,7 @@
 
 <table>
 <tr>
-<td width="58%" valign="middle">
+<td width="60%" valign="middle">
 
 <a href="https://www.securitycraft.space/"><img src="https://img.shields.io/badge/SecurityCraft.space-0d1b2a?style=for-the-badge&logo=firefoxbrowser&logoColor=00d4ff" /></a>
 <a href="https://www.linkedin.com/in/boran-k%C4%B1z%C4%B1lkaya-9324b5284"><img src="https://img.shields.io/badge/LinkedIn-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
@@ -165,14 +175,18 @@
 > Defensive security is a process, not a badge. Build carefully, verify claims, automate defense.
 
 </td>
-<td width="42%" align="center" valign="middle">
-  <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="320" alt="Connect gif" />
+
+<td width="40%" align="center" valign="middle">
+<img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="100%" />
 </td>
+
 </tr>
 </table>
 
 <br/>
 
 <div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0:0a0a0f,40:0d1b2a,100:0a0a0f&text=Stay%20Defensive.%20Stay%20Sharp.%20Stay%20Ahead.&fontSize=26&fontColor=00d4ff&animation=twinkling&fontAlignY=45&desc=Every%20log%20tells%20a%20story.%20Every%20alert%20is%20a%20chance%20to%20defend.%20Keep%20building.&descSize=13&descColor=7eb8f7&descAlignY=68" />
+
 </div>
