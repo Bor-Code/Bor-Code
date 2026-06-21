@@ -1,50 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blackcat&color=0:000000,50:1a0000,100:000000&height=280&section=header&text=MR.BORAN&fontSize=70&fontColor=8b0000&animation=fadeIn&fontAlignY=38&desc=here%20lies%20what%20you%20cannot%20patch&descAlignY=58&descSize=18&descColor=5a5a5a" width="100%"/>
+<img src="https://raw.githubusercontent.com/Bor-Code/Bor-Code/main/assets/skull-banner.svg" width="100%" alt="skull"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3500&pause=1200&color=8B0000&center=true&vCenter=true&width=750&lines=in+memoriam+%E2%80%94+every+system+you+thought+was+safe;the+grave+keeps+better+secrets+than+your+SOC;BLUE+TEAM+by+trade.+something+older+by+nature;%E2%80%A0+nulla+dies+sine+linea+%E2%80%A0)](https://git.io/typing-svg)
-
-<br/>
-
-<table border="0">
-<tr><td align="center">
-
-```
-                          .     .
-                         / `---' \
-                        /  ⊙   ⊙  \
-                       |     ▽     |
-                        \  ─────  /
-                         '._____.'
-                        /  |   |  \
-                       /   |   |   \
-                      '    |   |    '
-                           |   |
-                      ════════════════
-                      R.I.P. UNPATCHED
-                      ════════════════
-```
-
-</td></tr>
-</table>
-
-<br/>
-
-`6 feet of root access. nobody's getting that shell back.`
-
-<img src="https://img.shields.io/badge/STATUS-AWAKE_AT_3AM-1a0000?style=flat-square&labelColor=000000"/>
-<img src="https://img.shields.io/badge/LOCATION-TURKEY_%F0%9F%87%B9%F0%9F%87%B7-1a0000?style=flat-square&labelColor=000000"/>
-<img src="https://img.shields.io/badge/ROLE-BLUE_TEAM-1a0000?style=flat-square&labelColor=000000"/>
-<img src="https://img.shields.io/badge/PROFILE_VIEWS-cursed-1a0000?style=flat-square&labelColor=000000"/>
+<sub>refresh the page. it's still moving.</sub>
 
 </div>
 
 <br/>
 
-> *"Security is not a product, but a process. Death is not an ending, but a log entry."*
-> — adapted from Bruce Schneier, with apologies
+> *"Security is not a product, but a process."*
+> — Bruce Schneier
 
 <br/>
 
@@ -52,17 +19,19 @@
 
 <br/>
 
-### ☠ &nbsp; who walks here
+### who walks here
 
-A third-year Computer Engineering student at Karamanoğlu Mehmetbey University, buried in cybersecurity work by choice, not accident. I spend my nights where most systems go quiet — reading logs nobody else reads, hunting for the thing that shouldn't be there.
-
-<br/>
-
----
+Third-year Computer Engineering student at Karamanoğlu Mehmetbey University. I work in cybersecurity — mostly on the defensive side, where you spend your nights reading logs nobody else reads, looking for the one line that shouldn't be there.
 
 <br/>
 
-### ⚰ &nbsp; tech arsenal
+<div align="center">
+<img src="https://raw.githubusercontent.com/Bor-Code/Bor-Code/main/assets/matrix-divider.svg" width="100%" alt="divider"/>
+</div>
+
+<br/>
+
+### tech arsenal
 
 **Languages & Scripting**
 
@@ -101,15 +70,15 @@ A third-year Computer Engineering student at Karamanoğlu Mehmetbey University, 
 
 <br/>
 
-### 🕯 &nbsp; certifications — proof of survival
+### certifications
 
 | Certification | Status |
 |---|---|
-| CompTIA Security+ | ✅ earned |
-| CompTIA Network+ | ✅ earned |
-| AWS Cloud Practitioner | ✅ earned |
-| OSCP — Offensive Security | 🕸 in progress |
-| CKS — Kubernetes Security | 🕸 in progress |
+| CompTIA Security+ | earned |
+| CompTIA Network+ | earned |
+| AWS Cloud Practitioner | earned |
+| OSCP — Offensive Security | in progress |
+| CKS — Kubernetes Security | in progress |
 
 <br/>
 
@@ -117,7 +86,7 @@ A third-year Computer Engineering student at Karamanoğlu Mehmetbey University, 
 
 <br/>
 
-### 🪦 &nbsp; repositories worth digging up
+### repositories worth digging up
 
 <div align="center">
 
@@ -145,7 +114,7 @@ A third-year Computer Engineering student at Karamanoğlu Mehmetbey University, 
 
 <div align="center">
 
-### 🔔 &nbsp; reach the other side
+### reach the other side
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0000?style=for-the-badge&logo=linkedin&logoColor=8b0000)](https://www.linkedin.com/in/bora-kızılkaya-9324b5284)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-1a0000?style=for-the-badge&logo=tryhackme&logoColor=8b0000)](https://tryhackme.com/p/BorCode)
@@ -154,6 +123,6 @@ A third-year Computer Engineering student at Karamanoğlu Mehmetbey University, 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=blackcat&color=0:000000,50:1a0000,100:000000&height=120&section=footer&text=memento%20mori%2C%20memento%20patch&fontSize=16&fontColor=5a5a5a&animation=twinkling"/>
+<sub>memento mori, memento patch</sub>
 
 </div>
