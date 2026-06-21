@@ -1,55 +1,56 @@
-# ☠️ Bora Kızılkaya
+<div align="center">
 
-```text
-┌──[ Bor-Code ]──────────────────────────────┐
-│  Computer Engineering Student              │
-│  Cybersecurity / Blue Team / Detection     │
-│  Malware Analysis / Windows Telemetry      │
-└────────────────────────────────────────────┘
-```
+<img src="./assets/matrix-skull.svg" width="100%" alt="Matrix Skull Banner"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Threat+Detection;Malware+Analysis;Windows+Telemetry;SIEM+Engineering;Defensive+Security+Tooling" alt="Typing Animation"/>
+
+</div>
+
+---
 
 ```bash
-> whoami
-Bora Kızılkaya
+┌──(Bor-Code㉿github)-[~/profile]
+└─$ whoami
+```
 
-> current_focus
-Threat Detection
-Malware Analysis
-SIEM Engineering
-Windows Security
-Security Automation
-
-> mission
-Detect what hides in the shadows.
+```text
+Name      : Bora Kızılkaya
+Role      : Computer Engineering Student
+Focus     : Cybersecurity / Blue Team / Malware Analysis
+Specialty : Threat Detection / SIEM / Windows Telemetry
+Mission   : Detect what hides in the shadows
 ```
 
 ---
 
-## About Me
+## ☠️ About Me
 
-I am a third-year Computer Engineering student focused on cybersecurity, especially defensive security, malware analysis, threat detection, SIEM concepts, and Windows telemetry.
+I am a Computer Engineering student focused on cybersecurity, especially defensive security, malware analysis, threat detection, SIEM concepts, and Windows telemetry.
 
-I build practical security projects that help me understand how suspicious behavior can be analyzed, monitored, and detected.
+I build practical security projects to understand how suspicious behavior can be analyzed, monitored, and detected.
 
-My goal is to improve both my engineering skills and my security mindset by building real tools, labs, and detection-focused projects.
-
----
-
-## Core Interests
+```bash
+┌──(Bor-Code㉿github)-[~/arsenal]
+└─$ cat skills.txt
+```
 
 ```text
 [+] Threat Detection
 [+] Malware Analysis
 [+] SIEM Engineering
-[+] Windows Internals
+[+] Windows Security
+[+] Windows Telemetry
+[+] Static Analysis
+[+] Dynamic Analysis
 [+] Security Automation
-[+] Blue Team Operations
 [+] MITRE ATT&CK Mapping
 ```
 
 ---
 
-## Technical Arsenal
+## ⚔️ Technical Arsenal
 
 | Area        | Technologies / Concepts                                |
 | ----------- | ------------------------------------------------------ |
@@ -61,86 +62,87 @@ My goal is to improve both my engineering skills and my security mindset by buil
 
 ---
 
-## Featured Operations
+## ☠️ Featured Operations
 
-### MalwareAnalysisTool
+<div align="center">
 
-A security-focused project for analyzing executable files with static and dynamic analysis concepts.
+<a href="https://github.com/Bor-Code/MalwareAnalysisTool">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bor-Code&repo=MalwareAnalysisTool&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41" />
+</a>
 
-Focus areas:
+<a href="https://github.com/Bor-Code/SentinelFlow">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bor-Code&repo=SentinelFlow&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41" />
+</a>
 
-```text
-Static Analysis
-Dynamic Analysis
-PE File Inspection
-Suspicious Behavior Detection
-Security Reporting
-```
+</div>
 
 ---
 
-### SentinelFlow
-
-A security monitoring and analysis-oriented project focused on visibility, traffic inspection, and defensive engineering concepts.
-
-Focus areas:
-
-```text
-Network Visibility
-Packet Analysis
-Monitoring
-Detection-Oriented Design
-```
-
----
-
-### Detection & Telemetry Labs
-
-Experimental labs for understanding how suspicious activity can be simulated, logged, and detected.
-
-Focus areas:
-
-```text
-Windows Telemetry
-Detection Rules
-Purple Team Thinking
-MITRE ATT&CK Techniques
-Defensive Automation
-```
-
----
-
-## Current Direction
+## 🧪 Current Direction
 
 ```bash
-> building
-Security tools and detection labs
+┌──(Bor-Code㉿github)-[~/current]
+└─$ cat direction.txt
+```
 
-> learning
-Windows internals, malware behavior, SIEM logic, detection engineering
-
-> mindset
-Analyze. Detect. Automate. Improve.
+```text
+Building      : Security tools and detection labs
+Learning      : Windows internals, malware behavior, SIEM logic
+Improving     : Detection engineering and defensive automation
+Mindset       : Analyze. Detect. Automate. Improve.
 ```
 
 ---
 
-## Philosophy
+## 📊 GitHub Intel
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bor-Code&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bor-Code&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=C9D1D9" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bor-Code/Bor-Code/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bor-Code/Bor-Code/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Bor-Code/Bor-Code/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+---
+
+## ☠️ Philosophy
 
 ```text
 Attackers hide in noise.
 Defenders hunt through signals.
 ```
 
-I am not interested in just using tools.
-I want to understand how they work, why they work, and how to build better ones.
+```bash
+┌──(Bor-Code㉿github)-[~/mission]
+└─$ ./detect.sh
+```
+
+```text
+[+] Collect telemetry
+[+] Analyze behavior
+[+] Detect suspicious activity
+[+] Improve defensive tooling
+```
 
 ---
 
-## Contact
+<div align="center">
 
-```text
-GitHub   : Bor-Code
-Focus    : Cybersecurity / Blue Team / Malware Analysis
-Status   : Building, learning, improving
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=00FF41&center=true&vCenter=true&width=850&lines=Detect+what+hides+in+the+shadows.;Build.+Break.+Analyze.+Defend.;Cybersecurity+is+discipline%2C+not+noise." alt="Footer Typing Animation"/>
+
+</div>
