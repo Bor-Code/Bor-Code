@@ -1,174 +1,146 @@
-<div align="center">
+# ☠️ Bora Kızılkaya
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a0a0f,35:0d1b2a,70:16213e,100:0a0a0f&text=BORAN&fontSize=68&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Blue%20Team%20%7C%20SIEM%20Engineering%20%7C%20AI%20Security&descAlignY=60&descSize=18&descColor=7eb8f7" />
+```text
+┌──[ Bor-Code ]──────────────────────────────┐
+│  Computer Engineering Student              │
+│  Cybersecurity / Blue Team / Detection     │
+│  Malware Analysis / Windows Telemetry      │
+└────────────────────────────────────────────┘
+```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=800&color=00D4FF&center=true&vCenter=true&width=760&height=50&lines=Blue+Team+Engineer;SIEM+%2F+Threat+Hunting;Windows+Hardening;AI-Assisted+Security+Automation)](https://git.io/typing-svg)
+```bash
+> whoami
+Bora Kızılkaya
 
-![Mode](https://img.shields.io/badge/BLUE%20TEAM-Active-00d4ff?style=for-the-badge&labelColor=0d1b2a)
-![Location](https://img.shields.io/badge/Turkey-Konya-7eb8f7?style=for-the-badge&labelColor=0d1b2a)
-![Profile Views](https://komarev.com/ghpvc/?username=Bor-Code&style=for-the-badge&color=00d4ff&label=Views)
+> current_focus
+Threat Detection
+Malware Analysis
+SIEM Engineering
+Windows Security
+Security Automation
 
-<br/>
-
-[![SecurityCraft](https://img.shields.io/badge/🌐%20securitycraft.space-Visit%20My%20Website-00d4ff?style=for-the-badge&labelColor=0d1b2a&logo=firefoxbrowser&logoColor=00d4ff)](https://www.securitycraft.space/)
-
-</div>
-
-<br/>
-
-## 👤 Who Am I
-
-<table>
-<tr>
-<td width="40%" align="center" valign="middle">
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="100%" />
-</td>
-<td width="60%" valign="middle">
-
-- 🔵 Blue Team operations  
-- 🧠 SIEM engineering and log analysis  
-- 🪟 Windows hardening and detection logic  
-- 🤖 LLM-assisted security automation  
-- ☁️ Cloud-native security and Kubernetes curiosity  
-- 🎯 AI anomaly detection and practical defense workflows  
-
-### Focus Areas
-
-`Blue Team Operations` `SIEM Engineering` `Windows Hardening` `MITRE ATT&CK Hunting`  
-`LLM Security Automation` `Zero Trust` `MLOps & Model Deployment` `Cloud-Native Security`
-
-</td>
-</tr>
-</table>
+> mission
+Detect what hides in the shadows.
+```
 
 ---
 
-## ⚙️ Tech Arsenal
+## About Me
 
-<table>
-<tr>
-<td width="60%" valign="middle">
+I am a third-year Computer Engineering student focused on cybersecurity, especially defensive security, malware analysis, threat detection, SIEM concepts, and Windows telemetry.
 
-### Languages & Scripting
-![Python](https://img.shields.io/badge/Python-0d1b2a?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Bash](https://img.shields.io/badge/Bash-0d1b2a?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
-![PowerShell](https://img.shields.io/badge/PowerShell-0d1b2a?style=for-the-badge&logo=powershell&logoColor=5391FE)
-![Go](https://img.shields.io/badge/Go-0d1b2a?style=for-the-badge&logo=go&logoColor=00ADD8)
-![YAML](https://img.shields.io/badge/YAML-0d1b2a?style=for-the-badge&logo=yaml&logoColor=CB171E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1b2a?style=for-the-badge&logo=postgresql&logoColor=336791)
+I build practical security projects that help me understand how suspicious behavior can be analyzed, monitored, and detected.
 
-### Cloud & Containers
-![Docker](https://img.shields.io/badge/Docker-0d1b2a?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1b2a?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-![AWS](https://img.shields.io/badge/AWS-0d1b2a?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Linux](https://img.shields.io/badge/Linux-0d1b2a?style=for-the-badge&logo=linux&logoColor=FCC624)
-
-### Security Toolchain
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1b2a?style=for-the-badge&logo=kalilinux&logoColor=5AA9E6)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0d1b2a?style=for-the-badge&logo=target&logoColor=00d4ff)
-![Metasploit](https://img.shields.io/badge/Metasploit-0d1b2a?style=for-the-badge&logo=metasploit&logoColor=00d4ff)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
-
-### AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1b2a?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![Keras](https://img.shields.io/badge/Keras-0d1b2a?style=for-the-badge&logo=keras&logoColor=D00000)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1b2a?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1b2a?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-
-</td>
-<td width="40%" align="center" valign="middle">
-<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="100%" />
-</td>
-</tr>
-</table>
+My goal is to improve both my engineering skills and my security mindset by building real tools, labs, and detection-focused projects.
 
 ---
 
-## 📊 GitHub Pulse
+## Core Interests
 
-<h2 align="center">📊 GitHub Pulse</h2>
-
-<p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bor-Code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bor-Code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" height="165"/>
-</p>
-
-## 🎯 Skill Levels
-
-<div align="center">
-
-[![Blue Team](https://img.shields.io/badge/Blue%20Team-████████░░%2080%25-00d4ff?style=flat-square&labelColor=0d1b2a)]()
-[![SIEM](https://img.shields.io/badge/SIEM-███████░░░%2070%25-00d4ff?style=flat-square&labelColor=0d1b2a)]()
-[![Python](https://img.shields.io/badge/Python-████████░░%2085%25-00d4ff?style=flat-square&labelColor=0d1b2a)]()
-
-</div>
+```text
+[+] Threat Detection
+[+] Malware Analysis
+[+] SIEM Engineering
+[+] Windows Internals
+[+] Security Automation
+[+] Blue Team Operations
+[+] MITRE ATT&CK Mapping
+```
 
 ---
 
-## 🐍 Snake Game
+## Technical Arsenal
 
-<div align="center">
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bor-Code/Bor-Code/output/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bor-Code/Bor-Code/output/github-contribution-grid-snake.svg" />
-<img src="https://raw.githubusercontent.com/Bor-Code/Bor-Code/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
+| Area        | Technologies / Concepts                                |
+| ----------- | ------------------------------------------------------ |
+| Languages   | Python, C++, C, PowerShell                             |
+| Security    | Malware Analysis, Threat Detection, SIEM, MITRE ATT&CK |
+| Systems     | Windows, Linux                                         |
+| Analysis    | Static Analysis, Dynamic Analysis, Telemetry           |
+| Engineering | CLI Tools, Automation, Log Analysis, Detection Logic   |
 
 ---
 
-## 📈 Activity & Summary
+## Featured Operations
 
-<div align="center">
+### MalwareAnalysisTool
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bor-Code&theme=github_dark" />
+A security-focused project for analyzing executable files with static and dynamic analysis concepts.
 
-<br/><br/>
+Focus areas:
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bor-Code&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bor-Code&theme=github_dark" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bor-Code&bg_color=0a0a0f&color=00d4ff&line=7eb8f7&point=00d4ff&area=true&area_color=00d4ff15&hide_border=false&border_color=00d4ff&title_color=00d4ff&custom_title=Contribution+Activity+Graph" />
-
-</div>
+```text
+Static Analysis
+Dynamic Analysis
+PE File Inspection
+Suspicious Behavior Detection
+Security Reporting
+```
 
 ---
 
-## 🌐 Connect
+### SentinelFlow
 
-<table>
-<tr>
-<td width="60%" valign="middle">
+A security monitoring and analysis-oriented project focused on visibility, traffic inspection, and defensive engineering concepts.
 
-<a href="https://www.securitycraft.space/"><img src="https://img.shields.io/badge/SecurityCraft.space-0d1b2a?style=for-the-badge&logo=firefoxbrowser&logoColor=00d4ff" /></a>
-<a href="https://www.linkedin.com/in/boran-k%C4%B1z%C4%B1lkaya-9324b5284"><img src="https://img.shields.io/badge/LinkedIn-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-<a href="https://tryhackme.com/p/BorCode"><img src="https://img.shields.io/badge/TryHackMe-0d1b2a?style=for-the-badge&logo=tryhackme&logoColor=00d4ff" /></a>
-<a href="https://app.hackthebox.com/users/3137221"><img src="https://img.shields.io/badge/HackTheBox-0d1b2a?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" /></a>
-<a href="https://github.com/Bor-Code"><img src="https://img.shields.io/badge/GitHub-0d1b2a?style=for-the-badge&logo=github&logoColor=c9d1d9" /></a>
-<a href="mailto:non.mrbora@gmail.com"><img src="https://img.shields.io/badge/Email-0d1b2a?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+Focus areas:
 
-<br/><br/>
+```text
+Network Visibility
+Packet Analysis
+Monitoring
+Detection-Oriented Design
+```
 
-> Defensive security is a process, not a badge. Build carefully, verify claims, automate defense.
+---
 
-</td>
+### Detection & Telemetry Labs
 
-<td width="40%" align="center" valign="middle">
-<img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="100%" />
-</td>
+Experimental labs for understanding how suspicious activity can be simulated, logged, and detected.
 
-</tr>
-</table>
+Focus areas:
 
-<br/>
+```text
+Windows Telemetry
+Detection Rules
+Purple Team Thinking
+MITRE ATT&CK Techniques
+Defensive Automation
+```
 
-<div align="center">
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0:0a0a0f,40:0d1b2a,100:0a0a0f&text=Stay%20Defensive.%20Stay%20Sharp.%20Stay%20Ahead.&fontSize=26&fontColor=00d4ff&animation=twinkling&fontAlignY=45&desc=Every%20log%20tells%20a%20story.%20Every%20alert%20is%20a%20chance%20to%20defend.%20Keep%20building.&descSize=13&descColor=7eb8f7&descAlignY=68" />
+## Current Direction
 
-</div>
+```bash
+> building
+Security tools and detection labs
+
+> learning
+Windows internals, malware behavior, SIEM logic, detection engineering
+
+> mindset
+Analyze. Detect. Automate. Improve.
+```
+
+---
+
+## Philosophy
+
+```text
+Attackers hide in noise.
+Defenders hunt through signals.
+```
+
+I am not interested in just using tools.
+I want to understand how they work, why they work, and how to build better ones.
+
+---
+
+## Contact
+
+```text
+GitHub   : Bor-Code
+Focus    : Cybersecurity / Blue Team / Malware Analysis
+Status   : Building, learning, improving
+```
