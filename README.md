@@ -1,26 +1,9 @@
-# Boran Kızılkaya
+# Bora Kızılkaya
 
-<div align="center">
+**Computer Engineering Student**
+**Cybersecurity • Malware Analysis • Threat Detection • Windows Security**
 
-### Computer Engineering Student
-
-#### Cybersecurity • Threat Detection • Malware Analysis • Windows Security
-
-<br/>
-
-<sub>
-━━━━━━━━━━━━━━━━━━━━━━━  SIGNAL / NOISE  ━━━━━━━━━━━━━━━━━━━━━━━
-</sub>
-
-<br/><br/>
-
-**Building defensive security tools and detection-focused labs.**
-
-<br/>
-
-<code>detect → analyze → understand → improve</code>
-
-</div>
+> Building practical security tools for malware analysis, threat detection, and Windows telemetry.
 
 ---
 
@@ -28,53 +11,92 @@
 
 I am a Computer Engineering student focused on cybersecurity, especially defensive security, malware analysis, threat detection, SIEM concepts, and Windows security.
 
-I build practical security projects to understand how suspicious behavior can be analyzed, monitored, and detected.
+I build practical projects to understand how suspicious behavior can be analyzed, monitored, logged, and detected.
 
-My main goal is not only to use security tools, but to understand how they work and how detection logic can be improved.
+My portfolio is not built around listing every technology I have touched.
+It is built around showing what I built, why I built it, how I approached the problem, and what I learned.
 
 ---
 
-## Focus
+## Focus Areas
 
 ```text
-Threat Detection        Malware Analysis        Windows Telemetry
-SIEM Engineering        Defensive Tooling       Security Automation
-Static Analysis         Dynamic Analysis        MITRE ATT&CK Mapping
+Malware Analysis       Threat Detection       Windows Telemetry
+SIEM Concepts          Defensive Tooling      Security Automation
+Static Analysis        Dynamic Analysis       MITRE ATT&CK Mapping
 ```
 
 ---
 
-## Selected Work
+## Case Files
 
-### MalwareAnalysisTool
-
-A Windows-focused malware analysis project built to practice static and dynamic analysis concepts.
-
-| Field   | Description                                                                        |
-| ------- | ---------------------------------------------------------------------------------- |
-| Goal    | Analyze suspicious executable files and understand malware-like behavior           |
-| Process | Inspect files, collect analysis data, improve CLI flow, document findings          |
-| Focus   | Static analysis, dynamic analysis, PE inspection, event logging                    |
-| Result  | A practical security tool demonstrating malware analysis and defensive engineering |
+### CASE 01 — MalwareAnalysisTool
 
 **Repository:**
 https://github.com/Bor-Code/MalwareAnalysisTool
 
+**Objective**
+Build a Windows-focused malware analysis tool to practice static and dynamic analysis concepts.
+
+**Approach**
+
+* Inspected executable files through static analysis concepts
+* Improved command-line analysis workflow
+* Added dynamic analysis flow and timeout handling
+* Structured suspicious behavior/event output
+* Documented the project for practical security use
+
+**Result**
+A hands-on malware analysis project demonstrating C++, Windows security concepts, executable inspection, and defensive tooling.
+
+**Key Topics**
+`Malware Analysis` `Static Analysis` `Dynamic Analysis` `Windows Security` `Security Tooling`
+
 ---
 
-### SentinelFlow
-
-A defensive security monitoring project focused on visibility, traffic/log analysis, and detection-oriented engineering.
-
-| Field   | Description                                                       |
-| ------- | ----------------------------------------------------------------- |
-| Goal    | Understand how security events can be collected and analyzed      |
-| Process | Structure events, inspect network/log data, focus on visibility   |
-| Focus   | Monitoring, event analysis, network visibility, detection logic   |
-| Result  | A hands-on Blue Team project for security monitoring fundamentals |
+### CASE 02 — SentinelFlow
 
 **Repository:**
 https://github.com/Bor-Code/SentinelFlow
+
+**Objective**
+Build a defensive security monitoring project focused on visibility, event analysis, and detection-oriented engineering.
+
+**Approach**
+
+* Collected and structured security-related data
+* Focused on monitoring and visibility
+* Designed the project around Blue Team fundamentals
+* Practiced detection logic and analysis workflows
+
+**Result**
+A practical monitoring project showing how security events can be collected, structured, and analyzed.
+
+**Key Topics**
+`Blue Team` `Monitoring` `Event Analysis` `Detection Logic` `Security Engineering`
+
+---
+
+### CASE 03 — Detection & Telemetry Lab
+
+**Status:** Planned / In Progress
+
+**Objective**
+Create a lab environment for simulating suspicious Windows behaviors and mapping detections to MITRE ATT&CK techniques.
+
+**Planned Approach**
+
+* Simulate suspicious behaviors in a controlled lab
+* Collect Windows telemetry
+* Map behaviors to MITRE ATT&CK
+* Write simple detection logic
+* Document findings as case studies
+
+**Goal**
+Build a portfolio-level Purple Team project that connects offensive behavior simulation with defensive detection.
+
+**Key Topics**
+`Windows Telemetry` `MITRE ATT&CK` `Purple Team` `Detection Engineering` `SIEM`
 
 ---
 
@@ -90,7 +112,7 @@ https://github.com/Bor-Code/SentinelFlow
 
 ---
 
-## Current Direction
+## Current Learning Direction
 
 ```text
 [+] Windows internals
@@ -103,41 +125,25 @@ https://github.com/Bor-Code/SentinelFlow
 
 ---
 
-## Portfolio Philosophy
+## Portfolio Principles
+
+```text
+Evidence over claims.
+Depth over decoration.
+Process over shortcuts.
+Signal over noise.
+```
 
 I prefer building practical projects instead of only listing technologies.
 
-My portfolio is built around four questions:
+Each strong project should answer four questions:
 
 ```text
 What did I build?
 Why did I build it?
-How did I solve the problem?
+How did I approach the problem?
 What did I learn from the process?
 ```
-
----
-
-## Operating Principles
-
-```text
-Signal over noise.
-Process over shortcuts.
-Depth over decoration.
-Evidence over claims.
-```
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Bor-Code&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bor-Code&layout=compact&theme=github_dark&hide_border=true" height="165" />
-
-</div>
 
 ---
 
@@ -148,14 +154,4 @@ Evidence over claims.
 
 ---
 
-<div align="center">
-
-<sub>
-━━━━━━━━━━━━━━━━━━━━━━━  DETECT WHAT MATTERS  ━━━━━━━━━━━━━━━━━━━━━━━
-</sub>
-
-<br/><br/>
-
-**Defensive security • Threat detection • Malware analysis**
-
-</div>
+**Building defensive security tools and detection-focused labs.**
