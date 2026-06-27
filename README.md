@@ -1,4 +1,4 @@
-# Bora Kızılkaya
+# Boran Kızılkaya
 
 **Computer Engineering Student**
 **Cybersecurity • Malware Analysis • Threat Detection • Windows Security**
