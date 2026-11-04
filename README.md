@@ -128,6 +128,11 @@ Mission     : Build practical security tools for malware analysis, threat detect
 </table>
 
 <p align="center">
+  <a href="https://github.com/Bor-Code/MalwareAnalysisTool"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bor-Code&repo=MalwareAnalysisTool&theme=radical&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&hide_border=true" alt="MalwareAnalysisTool" /></a>
+  <a href="https://github.com/Bor-Code/SentinelFlow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bor-Code&repo=SentinelFlow&theme=radical&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&hide_border=true" alt="SentinelFlow" /></a>
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
@@ -219,6 +224,12 @@ Mission     : Build practical security tools for malware analysis, threat detect
 <p align="center">
   <a href="https://github.com/Bor-Code">
     <img src="https://img.shields.io/badge/GitHub-Bor--Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/boran-k%C4%B1z%C4%B1lkaya-9324b5284/">
+    <img src="https://img.shields.io/badge/LinkedIn-Boran%20K%C4%B1z%C4%B1lkaya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:non.mrbora@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-non.mrbora%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
