@@ -196,11 +196,10 @@ Mission     : Build practical security tools for malware analysis, threat detect
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bor-Code&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bor-Code&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&area_color=00ff9c" />
+  <img src="https://img.shields.io/github/followers/Bor-Code?style=for-the-badge&logo=github&logoColor=black&color=00ff9c&labelColor=181717" />
+  <img src="https://img.shields.io/github/stars/Bor-Code/MalwareAnalysisTool?style=for-the-badge&logo=github&logoColor=black&color=ffb800&labelColor=181717&label=MalwareAnalysisTool" />
+  <img src="https://img.shields.io/github/stars/Bor-Code/SentinelFlow?style=for-the-badge&logo=github&logoColor=black&color=0ea5e9&labelColor=181717&label=SentinelFlow" />
+  <img src="https://img.shields.io/github/last-commit/Bor-Code/SentinelFlow?style=for-the-badge&logo=git&logoColor=black&color=a855f7&labelColor=181717" />
 </p>
 
 <p align="center">
