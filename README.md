@@ -9,19 +9,20 @@
 </p>
 
 <p align="center">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e1_fe0f/512.gif" width="42" />
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9a0/512.gif" width="42" />
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f50d/512.gif" width="42" />
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="42" />
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f512/512.gif" width="42" />
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" width="42" />
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="42" />
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a8/512.gif" width="42" height="42" />
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9a0/512.gif" width="42" height="42" />
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" width="42" height="42" />
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="42" height="42" />
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f512/512.gif" width="42" height="42" />
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" width="42" height="42" />
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="42" height="42" />
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="42" height="42" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Blue%20Team-00ff9c?style=for-the-badge&logo=shield&logoColor=black" />
-  <img src="https://img.shields.io/badge/Domain-Malware%20Analysis-0ea5e9?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Learning-Purple%20Team-a855f7?style=for-the-badge&logo=matrix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Blue%20Team-00ff9c?style=for-the-badge&logo=gnuprivacyguard&logoColor=black" />
+  <img src="https://img.shields.io/badge/Domain-Malware%20Analysis-0ea5e9?style=for-the-badge&logo=windows11&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-Purple%20Team-a855f7?style=for-the-badge&logo=tryhackme&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=Bor-Code&label=Profile%20Views&color=00ff9c&style=for-the-badge" />
 </p>
 
@@ -80,7 +81,7 @@ Mission     : Build practical security tools for malware analysis, threat detect
       </ul>
       <p>
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows11&logoColor=white" />
         <img src="https://img.shields.io/badge/Malware_Analysis-ff0055?style=flat-square" />
       </p>
       <a href="https://github.com/Bor-Code/MalwareAnalysisTool">
@@ -88,7 +89,7 @@ Mission     : Build practical security tools for malware analysis, threat detect
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f50d/512.gif" width="26" align="center" /> CASE 02 — SentinelFlow</h3>
+      <h3><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" width="26" align="center" /> CASE 02 — SentinelFlow</h3>
       <p>Defensive monitoring project focused on visibility, event analysis and detection-oriented engineering.</p>
       <ul>
         <li>Collection and structuring of security data</li>
@@ -169,7 +170,7 @@ Mission     : Build practical security tools for malware analysis, threat detect
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Windows_Internals-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Internals-0078D6?style=for-the-badge&logo=windows11&logoColor=white" />
   <img src="https://img.shields.io/badge/Detection_Engineering-00ff9c?style=for-the-badge&logo=hackthebox&logoColor=black" />
   <img src="https://img.shields.io/badge/Purple_Team-a855f7?style=for-the-badge&logo=target&logoColor=white" />
 </p>
@@ -213,7 +214,7 @@ Mission     : Build practical security tools for malware analysis, threat detect
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ec/512.gif" width="32" align="center" /> `> contact`
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="32" align="center" /> `> contact`
 
 <p align="center">
   <a href="https://github.com/Bor-Code">
